@@ -10,7 +10,7 @@ public class Main
 {
 	public static void main(String[] args){
 		
-		PriorityQueue<Integer>pq=new PriorityQueue<>()  ;
+		PriorityQueue<Integer>pq=new PriorityQueue<>() ;
 		
 		int []rank= {22,99,3,11,99,4,1};
 		
